@@ -1,0 +1,10 @@
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+*.zip
+.Rproj.user
+data/raw/
+ignore
